@@ -2,7 +2,7 @@
 
 **Welcome to Wanderlust!**
 
-![unreal](file:///C:/Users/praja/OneDrive/Pictures/Screenshots/Screenshot%202024-12-09%20182955.png)
+<img src="View.png" />
 
 Wanderlust is a user-friendly platform designed to simplify the process of buying, selling, or renting properties. We aim to make the entire real estate experience seamless and efficient for both property owners and potential buyers/renters.
 
