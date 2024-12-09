@@ -50,7 +50,7 @@ Wanderlust is a user-friendly platform designed to simplify the process of buyin
 4. **Start the Server:**
 
    ```bash
-   npm start
+   node app.js
    ```
 
 **Contributing:**
